@@ -1,0 +1,3 @@
+/home/abner/Downloads/Taller_Drivers III/build/usr/lib/libgpio_lib.a
+/home/abner/Downloads/Taller_Drivers III/build/usr/bin/gpio_tester
+/home/abner/Downloads/Taller_Drivers III/build/usr/include/gpio.h
