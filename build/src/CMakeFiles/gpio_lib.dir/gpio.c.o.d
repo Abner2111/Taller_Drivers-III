@@ -54,4 +54,23 @@ src/CMakeFiles/gpio_lib.dir/gpio.c.o: \
  /opt/poky/5.0.5/sysroots/cortexa7t2hf-neon-vfpv4-poky-linux-gnueabi/usr/include/bits/unistd.h \
  /opt/poky/5.0.5/sysroots/cortexa7t2hf-neon-vfpv4-poky-linux-gnueabi/usr/include/bits/unistd-decl.h \
  /opt/poky/5.0.5/sysroots/cortexa7t2hf-neon-vfpv4-poky-linux-gnueabi/usr/include/bits/unistd_ext.h \
- /home/abner/Downloads/Taller_Drivers\ III/src/../include/gpio.h
+ /home/abner/Downloads/Taller_Drivers\ III/src/../include/gpio.h \
+ /opt/poky/5.0.5/sysroots/cortexa7t2hf-neon-vfpv4-poky-linux-gnueabi/usr/include/string.h \
+ /opt/poky/5.0.5/sysroots/cortexa7t2hf-neon-vfpv4-poky-linux-gnueabi/usr/include/bits/libc-header-start.h \
+ /opt/poky/5.0.5/sysroots/cortexa7t2hf-neon-vfpv4-poky-linux-gnueabi/usr/include/bits/types/locale_t.h \
+ /opt/poky/5.0.5/sysroots/cortexa7t2hf-neon-vfpv4-poky-linux-gnueabi/usr/include/bits/types/__locale_t.h \
+ /opt/poky/5.0.5/sysroots/cortexa7t2hf-neon-vfpv4-poky-linux-gnueabi/usr/include/strings.h \
+ /opt/poky/5.0.5/sysroots/cortexa7t2hf-neon-vfpv4-poky-linux-gnueabi/usr/include/bits/strings_fortified.h \
+ /opt/poky/5.0.5/sysroots/cortexa7t2hf-neon-vfpv4-poky-linux-gnueabi/usr/include/bits/string_fortified.h \
+ /opt/poky/5.0.5/sysroots/cortexa7t2hf-neon-vfpv4-poky-linux-gnueabi/usr/include/stdio.h \
+ /opt/poky/5.0.5/sysroots/cortexa7t2hf-neon-vfpv4-poky-linux-gnueabi/usr/include/bits/types/__fpos_t.h \
+ /opt/poky/5.0.5/sysroots/cortexa7t2hf-neon-vfpv4-poky-linux-gnueabi/usr/include/bits/types/__mbstate_t.h \
+ /opt/poky/5.0.5/sysroots/cortexa7t2hf-neon-vfpv4-poky-linux-gnueabi/usr/include/bits/types/__fpos64_t.h \
+ /opt/poky/5.0.5/sysroots/cortexa7t2hf-neon-vfpv4-poky-linux-gnueabi/usr/include/bits/types/__FILE.h \
+ /opt/poky/5.0.5/sysroots/cortexa7t2hf-neon-vfpv4-poky-linux-gnueabi/usr/include/bits/types/FILE.h \
+ /opt/poky/5.0.5/sysroots/cortexa7t2hf-neon-vfpv4-poky-linux-gnueabi/usr/include/bits/types/struct_FILE.h \
+ /opt/poky/5.0.5/sysroots/cortexa7t2hf-neon-vfpv4-poky-linux-gnueabi/usr/include/bits/types/cookie_io_functions_t.h \
+ /opt/poky/5.0.5/sysroots/cortexa7t2hf-neon-vfpv4-poky-linux-gnueabi/usr/include/bits/stdio_lim.h \
+ /opt/poky/5.0.5/sysroots/cortexa7t2hf-neon-vfpv4-poky-linux-gnueabi/usr/include/bits/stdio2-decl.h \
+ /opt/poky/5.0.5/sysroots/cortexa7t2hf-neon-vfpv4-poky-linux-gnueabi/usr/include/bits/stdio.h \
+ /opt/poky/5.0.5/sysroots/cortexa7t2hf-neon-vfpv4-poky-linux-gnueabi/usr/include/bits/stdio2.h

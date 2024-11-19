@@ -16,5 +16,7 @@ int gpioGetMode(unsigned int pin);
 void gpioWrite(unsigned char bit, unsigned int pin);
 void gpioWrite0to7(unsigned char bit);
 void gpioInitPtrs();
-int*  gpioGetMode0to7();
+void  gpioGetMode0to7(int modes[8]);
+int  gpioReadValue();
+void gpioReadValue0to7(int pinValues[8]); 
 #endif
